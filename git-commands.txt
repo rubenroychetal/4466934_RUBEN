@@ -1,0 +1,11 @@
+1. git diff
+2. git commit -a -m "GitHub file uploaded"
+3. git status
+4. git add .
+5. git checkout -b branch1
+6. git checkout branch1
+7. git commit --amend
+8. git push origin branch1
+9. git pull
+10. git rebase -i / --continue / --abort / --skip
+...
