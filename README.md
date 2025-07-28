@@ -4,8 +4,8 @@
 ## Certificates
 
 ### Agile for Beginners
-![Agile certificate] (agileforbeginnerscertificate.png)
+![Agile certificate](agileforbeginnerscertificate.png)
 
 ### Simplilearn Certificate
-![Simplilearn Certificate] (simplilearncertificate.png)
+![Simplilearn Certificate](simplilearncertificate.png)
 
