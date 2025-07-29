@@ -1,0 +1,156 @@
+date
+bc
+mkdir linux_assignment
+cd linux_assignment
+brew install gcc
+brew install ncal
+brew install ncal
+date
+whoami
+echo $SHELL
+uname -a
+cal
+seq 1 10
+rev <<< linux
+echo "Hello"
+brew install gcc ncal bc coreutils\
+brew install coreutils
+history
+date
+date "+%D"
+date "+%D %T"
+date "+%Y-%m-%d"
+date "+%Y/%m/%d"
+date "+%A %B %d %Y %T"\
+date -v+1d 
+date -v-2y
+man date
+echo $SHELL
+printenv SHELL
+whoami
+whatis echo
+whatis printenv
+whatis whoami
+whatis cat
+which cat
+which gcc
+info cat
+brew install gcc
+brew install bc
+brew install coreutils
+cal
+cal 7 2025
+cal 5 2025
+cal 2025
+cal -3
+uname
+uname -n
+uname -v
+uname -s
+uname -m
+uname -r
+uname -a
+echo "12/5" | bc
+echo "scale=2; 12/5" | bc
+echo "2>5" | bc
+echo "2^10" | bc
+echo "welcome to my linux project"
+echo -e "hello \t world"
+echo -n "hello world"
+echo -n "Hello World"
+echo "welcome to \"linux\""
+echo 'date'
+echo "this is\
+echo "this is linux training july 2025"
+seq 1 10
+seq 1 3 10
+seq 10 -1 1
+seq 20 -2 0
+seq -s " " 10
+seq -s " " 5 10
+seq -s " " 5 3 50
+rev <<< Linux
+rev <<< "linux training"
+echo $?
+false
+echo $?
+ls
+mkdir new
+cd new
+ls
+mkdir new1 new2
+cd
+cd -
+mkdir -p d1/d2
+cd d1
+ls
+ls -l
+cd ..
+cd
+cd -l
+cd ..
+ls -l
+ls -a 
+ls -R
+nano demo
+cd ~
+mkdir -p linux_assignment
+cd linux_assignment
+nano demo
+wc demo
+touch newfile.txt
+nano newfile.txt
+cat newfile.txt
+cat newfile.txt > output.txt
+cat output.txt
+cat -n demo
+mkdir training
+cp newfile.txt output.txt training
+cd training
+ls
+cd
+ls -R
+cp -r new training
+ls
+cd
+mv output.txt out
+ls
+nano sum.c
+cd training
+ls
+nano sum.c
+gcc sum.c && ./a.out
+date; uname -r; whoami
+date && whoami
+cd training
+cd new
+cd ..
+cd new
+cd
+cd -
+cd
+pwd
+cd -
+pwd
+cd
+mkdir stepin
+cd stepin
+mkdir sdlc git linux
+cd sdlc
+mkdir -p models/agile
+cd models
+cd ..
+cd
+cp demo newfile stepin
+cd stepin
+cp -r training stepin
+cd
+cp -r training stepin
+cd stepin
+mv newfile git
+cd git
+mv newfile day2
+history
+history
+history > assignment_history.txt
+history
